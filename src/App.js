@@ -18,7 +18,7 @@ import Download from "./Download";
 
 const promise = loadStripe(
   ""
-//   your private key will go here
+//   your public key will go here
 );
 
 // ्default page should alwyas in the last otherwise it won't work

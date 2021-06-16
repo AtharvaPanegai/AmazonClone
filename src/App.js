@@ -17,7 +17,8 @@ import Orders from "./Orders";
 import Download from "./Download";
 
 const promise = loadStripe(
-  "pk_test_51J1nzWSEeQgUmYUgKTepO5NcDeQb7nnRRKf1K89Er1vipMVHF665MDhfBTUKysXdO2ALzP8ugU1DiJFlm2HQY1ce00d2SEgm3O"
+  ""
+//   your private key will go here
 );
 
 // ्default page should alwyas in the last otherwise it won't work
